@@ -1,0 +1,129 @@
+c:\users\aljane walsh\documents\visual studio 2015\Projects\Sales System\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.pdb
+E:\Programming\Sales System\Sales System\bin\Debug\Sales System.exe.config
+E:\Programming\Sales System\Sales System\obj\Debug\Sales System.exe
+E:\Programming\Sales System\Sales System\obj\Debug\Sales System.pdb
+E:\Programming\Sales System\Sales System\bin\Debug\Sales System.exe
+E:\Programming\Sales System\Sales System\bin\Debug\Sales System.pdb
+E:\Programming\Sales System\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+E:\Programming\Sales System\Sales System\obj\Debug\Sales_System.Form1.resources
+E:\Programming\Sales System\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+E:\Programming\Sales System\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.exe
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.pdb
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\bin\Debug\Sales System.exe
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\bin\Debug\Sales System.pdb
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\21600384\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\obj\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\Programming\Sales System\Sales System\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\Desktop\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales System.exe
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\Aljane Walsh\Desktop\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+G:\Programming\Assignment1\Sales System\bin\Debug\Sales System.exe.config
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales System.exe
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales System.pdb
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales_System.Form1.resources
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+G:\Programming\Assignment1\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+G:\Programming\Assignment1\Sales System\bin\Debug\Sales System.exe
+G:\Programming\Assignment1\Sales System\bin\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\bin\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\bin\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.exe
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.pdb
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.exe
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Sales System\Sales System\bin\Debug\Sales System.pdb
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.exe
+C:\Users\bbpopo\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.pdb
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.exe
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.pdb
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.exe
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.pdb
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\21600384\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.exe.config
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\bin\Debug\Sales System.pdb
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales_System.Form1.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.exe
+C:\Users\Aljane Walsh\OneDrive\Documents\IT\2017 Feb-Jun\IT5x84 Programming\Programming A1\Sales System\obj\Debug\Sales System.pdb
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe.config
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.pdb
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Form1.resources
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.exe
+F:\IT\Level 5\2017 Feb-Jun\IT5x84 Programming\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.pdb
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe.config
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.pdb
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Form1.resources
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.GenerateResource.Cache
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.CoreCompileInputs.cache
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.exe
+H:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.pdb
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe.config
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.pdb
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csprojResolveAssemblyReference.cache
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Form1.resources
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.GenerateResource.cache
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.CoreCompileInputs.cache
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.exe
+G:\A_WALSH_CABAUATAN\WHITIREIA\IT\Level 5\2017 Feb-Jun\C#\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.pdb
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe.config
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.exe
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\bin\Debug\Sales System.pdb
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csprojAssemblyReference.cache
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Form1.resources
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales_System.Properties.Resources.resources
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.GenerateResource.cache
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.csproj.CoreCompileInputs.cache
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.exe
+I:\A_WALSH_CABAUATAN\WHITIREIA\IT\C# - L5\A1\Sales System- 21600384\Sales System\obj\Debug\Sales System.pdb
